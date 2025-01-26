@@ -6,7 +6,7 @@ import {
 BrowserRouter ,
  Routes,
  Route,
- Navigate
+ 
 } from 'react-router-dom';
 
 const  App=()=> {
@@ -24,4 +24,4 @@ const  App=()=> {
   )
 }
 
-export default App
+export default App;
