@@ -44,39 +44,38 @@ const LanguageText1 = () => {
     return(
       <>
  <p className="tabText">
-          <span className="transfr">transfr</span> is a contact-less instant
-          phone-
-          <br />
-          screen to phone-screen mobile money
-          <br />
-          transfer. Designed extremely easy to use
-          <br />
-          with local language options, just for
-          <span className="italics"> you.</span>
+  <span className="transfr">transfr</span> is
+  contact-less tap-to-pay NFC/QR<br />
+  enabled instant phone-screen to phone-<br />
+  screen mobile money transfer app. It is<br />
+  designed extremely easy to use with local <br />
+  language options, just for
+  <span className="italics"> you.</span>
 
 
         </p>
 
 
         <p className="textHide">
-          <span className="transfr">transfr</span> is a contact-less instant
-          <br />
-          phone-screen to phone-screen <br />
-          mobile money transfer. <br />
-          Designed extremely easy to use
-          <br />
-          with local language options, just
-          <br />
-          for<span className="italics"> you.</span>
+          <span className="transfr">transfr</span> is
+  contact-less tap-to-pay <br />
+  NFC/QR enabled instant phone-<br />
+  screen to phone-screen mobile<br />
+  money transfer app. It is designed<br />
+  designed extremely easy to use<br />
+  with local language options, just <br />
+  for<span className="italics"> you.</span>
+
         </p>
         <p className="textHide3">
-          <span className="transfr">transfr</span> is a contact-less instant
-          phone-screen to
-          <br />
-          phone-screen mobile money transfer. Designed
-          <br />
-          extremely easy to use with local language <br />
-          options, just for <span className="italics"> you.</span>
+         <span className="transfr">transfr</span> is
+  contact-less tap-to-pay NFC/QR<br />
+  enabled instant phone-screen to phone-<br />
+  screen mobile money transfer app. It is<br />
+  designed extremely easy to use with local <br />
+  language options, just for
+  <span className="italics"> you.</span>
+
         </p>
 </>
     )
@@ -272,11 +271,10 @@ const LanguageDivText1 = () => {
     return(
       <>
  <p className="text1A">
-            Get instant
-            <br />
-            <span className="italics"> zero</span> interest
-            <br /> loans on the
-            <br /> transfr app!
+            Get free food
+            <br />and shopping
+            <br />vouchers on
+            <br /> the transfr app!
           </p>
 
 
@@ -555,21 +553,18 @@ return (
               name and phone number. Create <br />
               a unique passcode. <br />
               <br />
-              Transact with the transfr app <br />
-              for a week. Apply for the transfr <br />
-              <span className="italics2"> Zero Interest Loan.</span> Choose loan
+              In the menu bar, under Transft Cares, <br />
+              apply for giveaway. Select gender, name, <br />
+              age, religion, location and you are eligible<br />
+              for our periodic free food and free<br />
+              shopping vouchers.<br />
               <br />
-              <span className="italics2"> Repayment Spread:</span> 7 days,{" "}
-              <br />
-              15 days or 30 days.
-              <br />
-              <br />
-              Submit.
+              Redeemable at all Transfr Merchants;<br />
+              reasturants and stores near you.
               <br />
               <br />
               <span className="transfr">
-                Get loan credited to your <br />
-                account in seconds.
+                That easy. Download Transfr now! <br />
               </span>
             </p>
           </div>
@@ -666,32 +661,29 @@ return (
              <img src="https://tinypic.host/images/2023/12/05/CloseIcon_Transfr.png" alt="" border="0" className="closeIcon"/>
             </div>
             </div>
-            <p className="ExpandText">
-              Download the <span className="transfr">transfr</span>  <br />{" "}
-              app. Then, register easy
+             <p className="ExpandText">
+              Download the <span className="transfr">transfr</span> app. <br />{" "}
+              Then, register easy with only <br />
+              your name and phone number. <br />
+              Create a unique passcode. <br />
               <br />
-              with only your name and  <br />phone number. Create a  <br />unique passcode. <br />
+              In the menu bar, under  <br />
+              Transfr Cares, apply for<br />
+              giveaway. Select gender,<br />
+              name, age, religion, <br />
+              location and you are<br />
+              eligible for our periodic<br />
+              free food and free <br />
+              shopping vouchers.<br />
               <br />
-              Transact with the transfr <br />
-              app for a week. Apply for <br />
-              the transfr
-              <span className="italics2">
-                Zero Interest <br />
-                Loan.
-              </span>
-              Choose loan
-              <br />
-              <span className="italics2"> Repayment Spread:</span> 7 days,{" "}
-              <br />
-              15 days or 30 days.
-              <br />
-              <br />
-              Submit.
+              Redeemable at all Transfr<br />
+              Merchants; restaurants and <br />
+              stores near you.
               <br />
               <br />
               <span className="transfr">
-                Get loan credited to your <br />
-                account in seconds.
+                That easy. Download <br />
+                Transfr now! <br />
               </span>
             </p>
 
