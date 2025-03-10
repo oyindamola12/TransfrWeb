@@ -545,7 +545,7 @@ return (
           <div className="div42">
          <div className="closeIconDiv1" onClick={expand1false}>
 
-            <img src="https://tinypic.host/images/2023/12/05/CloseIcon_Transfr.png" alt="X" border="0" className="closeIcon"/>
+             <p className="closeText">&times;</p>
 </div>
             <p className="ExpandText">
               Download the <span className="transfr">transfr</span> app. <br />{" "}
@@ -583,8 +583,9 @@ return (
 
         {expand2 === true ? (
           <div className="div52">
-             <div className="closeIconDiv2" onClick={expand2false}>
-              <img src="https://tinypic.host/images/2023/12/05/CloseIcon_Transfr.png" alt="" border="0" className="closeIcon"/>
+         <div className="closeIconDiv1" onClick={expand2false}>
+
+             <p className="closeText">&times;</p>
 </div>
             <p className="ExpandText">
               Download the <span className="transfr">transfr</span> app. <br />{" "}
@@ -624,7 +625,7 @@ return (
         {expand3 === true ? (
           <div className="div62">
                   <div className="closeIconDiv3" onClick={expand3false}>
-   <img src="https://tinypic.host/images/2023/12/05/CloseIcon_Transfr.png" alt="" border="0" className="closeIcon"/>
+    <p className="closeText">&times;</p>
             </div>
             <p className="ExpandText2">
               Download the <span className="transfr">transfr</span> app. <br />{" "}
