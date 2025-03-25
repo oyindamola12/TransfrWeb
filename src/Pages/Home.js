@@ -879,7 +879,16 @@ return (
               <span className="transfr">transfr</span> is simply 'Applepay for the African Informal Economy'. Check here for our  <Link to={'/privacypolicy'} style={{ borderBottomColor:'#4744c4',textDecorationColor:"#4744c4"}}>
                <span className="privacypolicy"> Privacy Policy</span>
                </Link>
+
+                <p className="tabText5Two">
+              <span >Address: No 1 Ahmadiya Road, Isiu 104101, Ikorodu Lagos Nigeria. <br/>Email: transfrglobalresources@gmail.com <br/>Phone No: +234704 855 2797</span>
             </p>
+
+  <p className="tabText5Two">
+              <span ><span className="transfr">Transfr Africa</span> is owned and operated by <span className="transfr">Transfr Global Resources Limited</span>.</span>
+            </p>
+            </p>
+
 
 
          <div className="IconDisplay">

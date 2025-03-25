@@ -604,6 +604,14 @@ line-height: 0vw;
   margin-left: 1.5px;
 }
 
+
+.tabText5Two{
+
+  margin-top:35px;
+  font-size:1.2vw;
+
+  line-height: 1.6vw;
+}
 .text1A{
   color: #4744c4;
   font-size: 2.5vw;
@@ -776,7 +784,7 @@ padding: 0;
   display: flex;
   justify-content: space-between;
   padding-top: 30px;
-  align-items: center;
+  align-items:flex-start;
 }
 
 .DisplayTextAndLogo{
@@ -789,6 +797,8 @@ padding: 0;
 .IconDisplay{
   display: flex;
   flex-direction: row;
+  margin-top:0.5vw;
+
 }
 
 @media only screen and (max-width:767px) {
@@ -1148,6 +1158,14 @@ width: 100%;
     line-height: 4vw;
     margin-top: -1vw;
   }
+
+  .tabText5Two{
+
+    margin-top:35px;
+    font-size:2.2vw;
+
+    line-height: 3vw;
+  }
   .privacypolicy{
     font-size: 2.6vw;
     line-height: 4vw;
@@ -1218,6 +1236,14 @@ margin-left: 0px;
       font-size: 2.6vw;
       line-height: 4vw;
       margin-top: 5vw;
+
+    }
+    .tabText5Two{
+
+      margin-top:35px;
+      font-size:2.2vw;
+
+      line-height: 3vw;
     }
 }
 @media only screen and (max-width:450px) {
@@ -1239,6 +1265,13 @@ margin-left: 0px;
     font-size: 2.6vw;
     line-height: 4vw;
     margin-top: -3vw;
+  }
+  .tabText5Two{
+
+    margin-top:35px;
+    font-size:2.2vw;
+
+    line-height: 3vw;
   }
 .div4{
     width: 85%;
@@ -1747,6 +1780,14 @@ font-size: 2.1vw;
    line-height: 4vw;
    margin-top: -10px;
   }
+
+  .tabText5Two{
+
+    margin-top:35px;
+    font-size:1.9vw;
+
+    line-height: 3vw;
+  }
   .privacypolicy{
     font-size: 2.1vw;
    line-height: 4vw;
@@ -2070,6 +2111,15 @@ margin-top: -8px;
 .tabText5{
   font-size:1.3vw;
 
+
+}
+
+.tabText5Two{
+
+  margin-top:35px;
+  font-size:1.1vw;
+
+
 }
 
 .App-logo2{
@@ -2177,7 +2227,7 @@ margin-left: 7px;
   display: flex;
   justify-content: space-between;
   /* padding-top: 50px; */
-  align-items: center;
+  align-items:flex-start;
 }
 
 .IconDisplay{

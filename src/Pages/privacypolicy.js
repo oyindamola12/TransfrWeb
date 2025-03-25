@@ -256,7 +256,7 @@ const privacypolicy=()=> {
       </div>
       <div className="div3privacy">
        <p className="privacyText">
-               <span className="privacyTextspan">
+         <span className="privacyTextspan">
          8. Changes to this Privacy Policy:
 <br/>
           </span>
@@ -308,9 +308,26 @@ const privacypolicy=()=> {
         </p>
 
       </div>
+   <div className="div2privacy">
+        <p className="privacyText">
+               <span className="privacyTextspan">
+           10. Refund Policy:
+<br/>
+          </span>
+                  10.1.
+Transfr Africa processes refunds for
+failed or erroneous<br/> transactions within
+5-7 business days. Contact support with<br/> proof of
+transaction for assistance. Refund eligibility depends<br/>
+on transaction verification and compliance.
 
+        </p>
+
+      </div>
 
     </div>
+
+
 
     </div>
   )
