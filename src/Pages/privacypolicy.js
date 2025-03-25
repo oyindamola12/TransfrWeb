@@ -287,24 +287,11 @@ const privacypolicy=()=> {
 <br/>
           </span>
 
-              9.1. If you have any questions or
-
-              concerns about this Privacy Policy
-
-              or our data practices, please
-
-              contact us at: +234704 855 2797
-
-              Your privacy is important to us,
-
-              and we are committed to
-
-              safeguarding your personal
-
-              information.
-
-
-
+              9.1. If you have any questions or concerns about this Privacy<br/>
+              Policy or our data practices.<br/>
+              Please contact us at: +234704 855 2797.<br/>
+              Your privacy is important to us, and we are committed to<br/>
+              safeguarding your personal information.
         </p>
 
       </div>
