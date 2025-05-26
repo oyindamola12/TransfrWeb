@@ -2,6 +2,16 @@ import React from 'react'
 import './App.css';
 // import logo from "/img/Logo_Transfr.png"
 const Download=()=> {
+
+
+  const handleImageClick = () => {
+    alert("Image clicked!");
+  };
+
+  const handleImageClick2 = () => {
+    alert("Coming soon!");
+  };
+
   return (
      <div className="FirstDiv">
        <div className="second">
@@ -18,37 +28,37 @@ const Download=()=> {
     </div>
 
       <div className="secondDiv2Download">
-      <div className="div1">
+      <div className="div1Download">
         <p className="tabText">
-          <span className="transfr">transfr</span> is a contact-less instant
+          <span className="transfr">Transfr</span> is a contact-less / tap-to-pay instant
           phone-
           <br />
-          screen to phone-screen mobile money
+          screen to phone-screen mobile money transfer app.
           <br />
-          transfer. Designed extremely easy to use
+          On it, you get weekly free food and free shopping
           <br />
-          with local language options, just for
-          <span className="italics"> you.</span>
+          vouchers. Redeemable at all Transfr Merchants;<br /> restaurants and stores closest to you.
+          {/* <span className="italics"> you.</span> */}
+
         </p>
         <p className="textHide">
-          <span className="transfr">transfr</span> is a contact-less instant
-          <br />
-          phone-screen to phone-screen <br />
-          mobile money transfer. <br />
-          Designed extremely easy to use
-          <br />
-          with local language options, just
-          <br />
-          for<span className="italics"> you.</span>
+          <span className="transfr">Transfr</span> is a contact-less / tap-to-pay <br />
+          instant phone-screen to phone-screen mobile money transfer app.<br /> On it, you get weekly free food and free shopping vouchers.
+          Redeemable at all Transfr Merchants; restaurants<br /> and stores closest to you.
+          {/* <span className="italics"> you.</span> */}
+
         </p>
         <p className="textHide3">
-          <span className="transfr">transfr</span> is a contact-less instant
-          phone-screen to
+          <span className="transfr">Transfr</span> is a contact-less / tap-to-pay instant
+          phone-
           <br />
-          phone-screen mobile money transfer. Designed
+          screen to phone-screen mobile money transfer app.
           <br />
-          extremely easy to use with local language <br />
-          options, just for <span className="italics"> you.</span>
+          On it, you get weekly free food and free shopping
+          <br />
+          vouchers. Redeemable at all Transfr Merchants;<br /> restaurants and stores closest to you.
+          {/* <span className="italics"> you.</span> */}
+
         </p>
       </div>
 
@@ -61,9 +71,9 @@ const Download=()=> {
             transfr app:
           </p>
           <div className="buttonDiv2">
-<img src="https://tinypic.host/images/2023/12/05/GooglePlayStore_Transfr.png" alt="GooglePlayStore_Transfr.png" border="0" className="googleAndApple"/>
+<img src="https://tinypic.host/images/2025/05/26/GoogleStore_Logos.png" alt="GooglePlayStore_Transfr.png" border="0" className="googleAndApple"  onClick={handleImageClick}/>
 
-<img src="https://tinypic.host/images/2023/12/05/AppleStore_Transfr.png" alt="AppleStore_Transfr.png" border="0" className="googleAndApple"/>
+<img src="https://tinypic.host/images/2025/05/26/AppleStore_Logos.png" alt="AppleStore_Transfr.png" border="0" className="googleAndApple" onClick={handleImageClick2}/>
 
 
           </div>

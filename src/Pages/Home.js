@@ -12,7 +12,13 @@ const [expand2, setExpand2] = useState(false);
 const [expand3, setExpand3] = useState(false);
 const [language, setLanguage] = useState("ENG");
 
+const handleImageClick = () => {
+    alert("Image clicked!");
+  };
 
+  const handleImageClick2 = () => {
+    alert("Coming soon!");
+  };
 
 const openLanguageTrue=()=>{
   setOpenLanguage(!openLanguage)
@@ -519,9 +525,9 @@ return (
             transfr app:
           </p>
           <div className="buttonDiv2">
-<img src="https://tinypic.host/images/2023/12/05/GooglePlayStore_Transfr.png" alt="" border="0" className="googleAndApple"/>
+<img src="https://tinypic.host/images/2025/05/26/GoogleStore_Logos.png" alt="" border="0" className="googleAndApple" onClick={handleImageClick}/>
 
-<img src="https://tinypic.host/images/2023/12/05/AppleStore_Transfr.png" alt="" border="0" className="googleAndApple"/>
+<img src="https://tinypic.host/images/2025/05/26/AppleStore_Logos.png" alt="" border="0" className="googleAndApple" onClick={handleImageClick2}/>
 
 
           </div>
