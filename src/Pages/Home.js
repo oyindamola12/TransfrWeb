@@ -50,7 +50,7 @@ const LanguageText1 = () => {
     return(
       <>
  <p className="tabText">
-  <span className="transfr">transfr</span> is
+  <span className="transfr">Transfr</span> is
   contact-less tap-to-pay NFC/QR<br />
   enabled instant phone-screen to phone-<br />
   screen mobile money transfer app. It is<br />
@@ -63,7 +63,7 @@ const LanguageText1 = () => {
 
 
         <p className="textHide">
-          <span className="transfr">transfr</span> is
+          <span className="transfr">Transfr</span> is
   contact-less tap-to-pay <br />
   NFC/QR enabled instant phone-<br />
   screen to phone-screen mobile<br />
@@ -74,7 +74,7 @@ const LanguageText1 = () => {
 
         </p>
         <p className="textHide3">
-         <span className="transfr">transfr</span> is
+         <span className="transfr">Transfr</span> is
   contact-less tap-to-pay NFC/QR<br />
   enabled instant phone-screen to phone-<br />
   screen mobile money transfer app. It is<br />
@@ -91,7 +91,7 @@ const LanguageText1 = () => {
     return(
       <>
  <p className="tabText">
-          <span className="transfr">transfr</span> ijẹ banki ori foonu ti o
+          <span className="transfr">Transfr</span> ijẹ banki ori foonu ti o
           le lo lati <br/>f'owo ranṣẹ tabi gba owo lati oju foonu<br/>
            si oju foonu. A ṣe pelu irọrun imulo pẹlu <br/>
            awọn aṣayan ede, fun iwọ nikan.
@@ -101,14 +101,14 @@ const LanguageText1 = () => {
 
 
         <p className="textHide">
-            <span className="transfr">transfr</span> ijẹ banki ori foonu ti o le<br/>
+            <span className="transfr">Transfr</span> ijẹ banki ori foonu ti o le<br/>
            lo lati f'owo ranṣẹ tabi gba owo<br/>
            lati oju foonu si oju foonu. A ṣe<br/>
            pelu irọrun imulo pẹlu
            awọn <br/>aṣayan ede, fun iwọ nikan.
         </p>
         <p className="textHide3">
-            <span className="transfr">transfr</span> ijẹ banki ori foonu ti o le
+            <span className="transfr">Transfr</span> ijẹ banki ori foonu ti o le
            lo lati f'owo ranṣẹ<br/> tabi gba owo
            lati oju foonu si oju foonu. A ṣe
            pelu <br/>irọrun imulo pẹlu
@@ -122,7 +122,7 @@ const LanguageText1 = () => {
     return(
       <>
  <p className="tabText">
-          <span className="transfr">transfr</span> banki ne na waya wanda zaku iya<br />amfani da shi don aika kuɗi da karɓar kuɗi<br />
+          <span className="transfr">Transfr</span> banki ne na waya wanda zaku iya<br />amfani da shi don aika kuɗi da karɓar kuɗi<br />
            daga allon-waya zuwa allon-waya. Muna <br />sauƙaƙe
             tare da zaɓuɓɓukan harshe,<br /> kawai a gare ku. 
 
@@ -131,14 +131,14 @@ const LanguageText1 = () => {
 
 
         <p className="textHide">
-             <span className="transfr">transfr</span> banki ne na waya wanda<br />
+             <span className="transfr">Transfr</span> banki ne na waya wanda<br />
              zaku iyaamfani da shi don aika<br />
              kuɗi da karɓar kuɗi
            daga allon-<br /> waya zuwa allon-waya. Muna<br />  sauƙaƙe
             tare da zaɓuɓɓukan<br />  harshe, kawai a gare ku. 
         </p>
         <p className="textHide3">
-          <span className="transfr">transfr</span> banki ne na waya wanda
+          <span className="transfr">Transfr</span> banki ne na waya wanda
              zaku iyaamfani<br />  da shi don aika
              kuɗi da karɓar kuɗi
            daga allon-<br /> waya zuwa allon-waya. Muna sauƙaƙe
@@ -152,7 +152,7 @@ const LanguageText1 = () => {
     return(
       <>
  <p className="tabText">
-          <span className="transfr">transfr </span>
+          <span className="transfr">Transfr </span>
           bụ ụlọ akụ ekwentị ị nwere ike iji<br />
           ziga ego, wee nweta ego site na ihun-<br/> ekwentị gaa na ihun ekwentị ọzọ. Anyị <br/>mere ka ọ dị mfe site na nhọrọ asụsụ, <br/>naanị maka gị.
 
@@ -161,10 +161,10 @@ const LanguageText1 = () => {
 
 
         <p className="textHide">
-          <span className="transfr">transfr</span> bụ ụlọ akụ ekwentị ị nwere<br /> ike iji ziga ego, wee nweta ego site na ihun ekwentị gaa na ihun ekwentị ọzọ. Anyị mere ka ọ dị mfe site na nhọrọ asụsụ, naanị maka gị.
+          <span className="transfr">Transfr</span> bụ ụlọ akụ ekwentị ị nwere<br /> ike iji ziga ego, wee nweta ego site na ihun ekwentị gaa na ihun ekwentị ọzọ. Anyị mere ka ọ dị mfe site na nhọrọ asụsụ, naanị maka gị.
         </p>
         <p className="textHide3">
-         <span className="transfr">transfr </span>
+         <span className="transfr">Transfr </span>
            bụ ụlọ akụ ekwentị ị nwere ike iji ziga ego, <br />wee nweta ego site na ihun ekwentị gaa
           na ihun<br /> ekwentị ọzọ. Anyị mere ka ọ dị mfe site na nhọrọ <br />asụsụ, naanị maka gị.
         </p>
@@ -206,7 +206,7 @@ const LanguageText2 = () => {
 
 
         <p className="tabText2Hide">
-            <span className="transfr">transfr</span>
+            <span className="transfr">Transfr</span>
              ijẹ banki ori foonu ti o le
            lo lati f'owo ranṣẹ<br/> tabi gba owo
            lati oju foonu si oju foonu. A ṣe
@@ -293,7 +293,7 @@ const LanguageDivText1 = () => {
     return(
       <>
  <p className="text1A">
-             Ya owo ti koni<br/>  owo ele kankan<br/>  ninu ni kia kia<br/>  lori transfr. 
+             Ya owo ti koni<br/>  owo ele kankan<br/>  ninu ni kia kia<br/>  lori Transfr. 
           </p>
 
 
@@ -317,7 +317,7 @@ const LanguageDivText1 = () => {
     return(
       <>
  <p className="text1A">
-Gbaziri ego na-<br/>enweghị mmasị<br/> ọ bụla ozugbo ozugbo na<br/>  transfr.
+Gbaziri ego na-<br/>enweghị mmasị<br/> ọ bụla ozugbo ozugbo na<br/>  Transfr.
 
           </p>
 </>
@@ -554,7 +554,7 @@ return (
              <p className="closeText">&times;</p>
 </div>
             <p className="ExpandText">
-              Download the <span className="transfr">transfr</span> app. <br />{" "}
+              Download the <span className="transfr">Transfr</span> app. <br />{" "}
               Then, register easy with only your <br />
               name and phone number. Create <br />
               a unique passcode. <br />
@@ -594,13 +594,13 @@ return (
              <p className="closeText">&times;</p>
 </div>
             <p className="ExpandText">
-              Download the <span className="transfr">transfr</span> app. <br />{" "}
+              Download the <span className="transfr">Transfr</span> app. <br />{" "}
               Then, register easy with only your <br />
               name and phone number. Create <br />
               a unique passcode. <br />
               <br />
-              Transact with the transfr app <br />
-              for a week. Apply for the transfr <br />
+              Transact with the Transfr app <br />
+              for a week. Apply for the Transfr <br />
               <span className="italics2"> Zero Interest Loan.</span> Choose loan
               <br />
               <span className="italics2"> Repayment Spread:</span> 7 days,{" "}
@@ -634,13 +634,13 @@ return (
     <p className="closeText">&times;</p>
             </div>
             <p className="ExpandText2">
-              Download the <span className="transfr">transfr</span> app. <br />{" "}
+              Download the <span className="transfr">Transfr</span> app. <br />{" "}
               Then, register easy with only your <br />
               name and phone number. Create <br />
               a unique passcode. <br />
               <br />
-              Transact with the transfr app <br />
-              for a week. Apply for the transfr <br />
+              Transact with the Transfr app <br />
+              for a week. Apply for the Transfr <br />
               <span className="italics2"> Zero Interest Loan.</span> Choose loan
               <br />
               <span className="italics2"> Repayment Spread:</span> 7 days,{" "}
@@ -669,7 +669,7 @@ return (
             </div>
             </div>
              <p className="ExpandText">
-              Download the <span className="transfr">transfr</span> app. <br />{" "}
+              Download the <span className="transfr">Transfr</span> app. <br />{" "}
               Then, register easy with only <br />
               your name and phone number. <br />
               Create a unique passcode. <br />
@@ -723,12 +723,12 @@ return (
             </div>
             </div>
              <p className="ExpandText">
-              Download the <span className="transfr">transfr</span>  <br />{" "}
+              Download the <span className="transfr">Transfr</span>  <br />{" "}
               app. Then, register easy
               <br />
               with only your name and  <br />phone number. Create a  <br />unique passcode. <br />
               <br />
-              Transact with the transfr <br />
+              Transact with the Transfr <br />
               app for a week. Apply for <br />
               the transfr
               <span className="italics2">
@@ -781,12 +781,12 @@ return (
             </div>
             </div>
               <p className="ExpandText">
-              Download the <span className="transfr">transfr</span>  <br />{" "}
+              Download the <span className="transfr">Transfr</span>  <br />{" "}
               app. Then, register easy
               <br />
               with only your name and  <br />phone number. Create a  <br />unique passcode. <br />
               <br />
-              Transact with the transfr <br />
+              Transact with the Transfr <br />
               app for a week. Apply for <br />
               the transfr
               <span className="italics2">
@@ -847,14 +847,14 @@ return (
     <div className="secondDiv4">
       <div className="div7">
         <p className="tabText4">
-          <span className="transfr">transfr</span> is a contact-less instant
+          <span className="transfr">Transfr</span> is a contact-less instant
           phone-screen to phone-screen mobile <br />
           money transfer. Designed extremely easy to use with local language{" "}
           <br /> options, just for
           <span className="italics"> you.</span>
         </p>
         <p className="textHide2">
-          <span className="transfr">transfr</span> is a contact-less instant
+          <span className="transfr">Transfr</span> is a contact-less instant
           phone-
           <br />
           screen to phone-screen mobile money
@@ -866,7 +866,7 @@ return (
           for <span className="italics"> you.</span>
         </p>
         <p className="tabText2Hide">
-          <span className="transfr">transfr</span> is a contact-less instant
+          <span className="transfr">Transfr</span> is a contact-less instant
           phone-screen to
           <br />
           phone-screen mobile money transfer. Designed
@@ -882,7 +882,7 @@ return (
       <div className="DisplayTextAndIcon">
 
        <p className="tabText5">
-              <span className="transfr">transfr</span> is simply 'Applepay for the African Informal Economy'. Check here for our  <Link to={'/privacypolicy'} style={{ borderBottomColor:'#4744c4',textDecorationColor:"#4744c4"}}>
+              <span className="transfr">Transfr</span> is simply 'Applepay for the African Informal Economy'. Check here for our  <Link to={'/privacypolicy'} style={{ borderBottomColor:'#4744c4',textDecorationColor:"#4744c4"}}>
                <span className="privacypolicy"> Privacy Policy</span>
                </Link>
 
