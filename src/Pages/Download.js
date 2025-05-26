@@ -70,10 +70,10 @@ const Download=()=> {
             <br />
             transfr app:
           </p>
-          <div className="buttonDiv2">
-<img src="https://tinypic.host/images/2025/05/26/GoogleStore_Logos.png" alt="GooglePlayStore_Transfr.png" border="0" className="googleAndApple"  onClick={handleImageClick}/>
+          <div className="buttonDiv2" style={{ marginLeft:-7}}>
+<img src="https://tinypic.host/images/2025/05/26/GoogleStore_Logos.png"  alt="GooglePlayStore_Transfr.png" border="0" className="googleAndApple"  onClick={handleImageClick}/>
 
-<img src="https://tinypic.host/images/2025/05/26/AppleStore_Logos.png" alt="AppleStore_Transfr.png" border="0" className="googleAndApple" onClick={handleImageClick2}/>
+<img src="https://tinypic.host/images/2025/05/26/AppleStore_Logos.png"  alt="AppleStore_Transfr.png" border="0" className="googleAndApple" onClick={handleImageClick2}/>
 
 
           </div>
